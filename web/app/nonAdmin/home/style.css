@@ -1,0 +1,9 @@
+#home > .jumbotron {
+  background:url(../../../images/krk1.jpg);
+	min-height:400px;
+	background-size:100%;
+	-webkit-background-size:100%;
+	-moz-background-size:100%;
+	-o-background-size:100%;
+	-ms-background-size:100%
+}
